@@ -1,0 +1,36 @@
+1.Awesome exporting techniques
+ 1)selection=>path=>create path
+ 2)upper+right=>clipping path->CMYK model->save->file->eps
+
+2.fill the path
+  1)create a path
+  2)Rasterize object
+  3)path option->fill path
+
+3.stroke the path
+ 1)create a path 
+ 3)path option->stroke path
+
+4.custom shape and path
+    custom shape=>create new path automatically
+
+5.exporting path to illustrator  
+file->save as->.eps  
+
+6.more on exporting
+
+7.intro to layer style
+  selection->stroke
+  fx->layer options->blend mode
+  1)stroke
+
+8.drop shadow(last one of layer style)
+  distance spread size
+
+9.Bevel and emboss
+  fx=>bevel and emboss=>create 3d effect
+
+10.color overlay 
+fx=>color overlay    
+
+

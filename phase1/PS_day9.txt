@@ -1,0 +1,44 @@
+1.Despeckle filter
+  Noise->despeckle filter
+  De-Speckle
+  Ctr+F->last filter
+  You can use this filter multiple times
+  Blur the images, and oblerate some detail
+
+2.Unsharp mask
+  sharp->USM sharp
+  less blur and more sharp[more contrast]
+
+3. Smart sharp
+   sharp->samrt sharp
+
+4.Sharpen, Blur and smudge tools
+  (blur tools)=>reduce detail 
+  (sharpen tools)=>increase contrast 
+  (smudge tools)=>pating(mirror affect)=>undress cloth
+
+5.Clone stamp tool
+  alt+click=>pick sample
+
+  left+click=>set the sample down
+
+6.Burn and dodge
+   Burn->color darker
+   dodge->lighting
+
+7.Color Correction
+  Add adjustment->levels(1st row and second one)
+  Red->reduce
+  RGB->lighter or darker
+
+8.color channels
+  channels=>RGB CMYK
+  edit->preference->general->interface->show channel color
+
+  Image->mode->CMYK
+
+9.Rgb color mode 
+
+10.CMYK coloe mode =>printinf mode
+
+

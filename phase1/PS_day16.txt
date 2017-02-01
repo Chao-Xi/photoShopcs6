@@ -1,0 +1,41 @@
+1.quick mask option
+  quick mask
+
+2.editing selection in quick mask mode
+  1)select a part(some parts still mess)
+  2)quick mask mode
+  3)bursh tool
+  4)click the button, close the mask mode
+
+3.Raster vs vector image
+  Raster image->pixel image
+  vector->advanced(not pixel image[path image])=>illustrator
+
+ 4.Convert selection to path
+  1)selection=>path=>create path
+  2)Alt+create path button=>tolerance=>path created on blank zone
+  3)ctrl+t=>change size
+
+ 5.Pen tool(path mode)
+  click=>straight
+  drag=>cruve line
+
+
+  path selection tool=>standard one area=>paint=>vector image
+
+  6.free form pen tool
+
+  7.magentic free form pen tool
+    [magentic pen tool] 
+    draw a quick path along the image
+
+  8.adding and deleting anchor points
+  pen tool=>add anchor 
+
+  9.Edit anchor points
+
+  10.Convert point tool
+  pen tool->conert toll  
+
+
+  

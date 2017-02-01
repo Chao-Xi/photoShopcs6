@@ -1,0 +1,59 @@
+1.Hue and saturation
+  image->adjustment->hue and saturation(ctrl+l)
+  Hue
+  Saturation
+  lightness
+  eyedrop tool
+
+2.vibrance
+  image->adjustment->vibrance(increase the saturation of image)
+
+3.selective color
+ cmyk color->image->adjusment->selective color
+
+4.channel mixer
+  image->adjustment->channel mixer   
+
+5.Gradient Map adjustment
+  image->adjustment->gradient map (G)
+
+6.photo filter adjustment
+  image->adjustment->photo filter
+  warmer or cooler 
+
+7.invert adjustmnt
+  image->adjustment->invert(I)
+
+8.Equalize(add contrast)  
+ image->adjustment->equalize(last one)[Q]
+ lower the opacity down
+
+9.Threshold layered effects 
+  image->adjustment->threholds 
+  threholds1 52
+  threholds2 92
+  threholds3 128 original
+  threholds4 190
+  magic wand tool (set tolerance 0; continuous:unchecked)
+  select white(delete white)  
+  do the same thing to the all layers
+  paint the black part( continuous:unchecked) of every layers(make color darker and darker)
+  threholds1 52 keep as black(posterize)
+
+10.sweet effect with posterize
+   color select->reverse
+    image->adjustment->posterize
+
+    top and bottom
+    both=>black and white
+    top->posterize->4 
+    bottom->posterize->2
+
+    top->filter->filter gallery->artistic->cutout(wooden cut)
+    bottom->filter->filter gallery->artistic->cutout(wooden cut)
+    
+    top->opacity->60%
+
+    adjustment panel->lightness
+
+    combine the layers(Awesome)

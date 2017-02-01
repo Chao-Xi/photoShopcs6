@@ -1,0 +1,50 @@
+1.Merge adjusment layers
+  choose all adjustment layer and the original layer
+  right click=>merge layers
+
+2.Composite images from adjustment
+  create a blank layer
+  choose it
+  merge all visible layer
+
+3.Adjustment on just one layer
+  alt+adjustment layer
+
+4.Bologna  
+  blending model and adjusment layer work together
+
+5.Adjusment on part of your image
+  select mask part->properties
+  brush tool(&mask selected)
+  color->black
+  brush->change to the layer without adjustment layer
+
+  color->white
+  brush back
+
+6.Adding mask to adjusment layers
+
+7.add Noise Filter   
+ Filter->noise->add Noise
+ Delete->History panel->delete noise filter
+
+8.Reduce Noise Filter
+  Filter->reduce filter
+  1)Preserve Detail[reduce detail ? yes : no ; ]
+  2)Reducce color noise[]
+
+9.Box surface and shape blurs  
+  blur->box blur(useless)
+  
+  surface blur(good)->execllent
+  1)good for reduceing noise
+  2)smothing skin  
+  Radius 3 threhold lower opacity
+
+  shape blur
+
+10.Gaussian Blur
+    1)Select the part
+    2)add layer mask
+    3)Blur another layer(bottom layer) another layer must in the bottom
+    4)Gaussian blur  

@@ -1,0 +1,34 @@
+1.Paragrah panel
+  windows->character [A|]
+
+2.More on paragraph panel
+  paragrap panel
+
+3.Anti Aliasing Font
+  [A|] None Sharp Crisp Strong Smooth
+
+4.Warp Text
+  select test=>T(WARP TEXT) 
+
+5.Text Style
+ character style / paragraph style   
+ character style=>create new style->double click new style=>crate you own style    
+ 
+ paragraph style 
+
+6.Spell Check
+ [spell checkker]
+ edit->check spelling 
+
+7.Find repalce the text
+  edit->find and repalce text
+
+8.Rasterize type layers=>turn into pixel
+
+9.converting type layers
+  select->right click=>create new work path
+
+10.Type to shape layers
+ convert to shape=>manipulate the single letter  
+  
+

@@ -1,0 +1,16 @@
+1.install F:\Visual studio (install package)\Adobe Photoshop CS6 package
+
+2.Panels (windows to open panel)
+
+3.Tools panel  [move, lasco, select, crop, eyedropper, Healing Brush, brush, Stamp, Eraser, paint bucket, 
+                dodge tool, blur and sharpen tool, pen tool, text tools]
+  Edit: undo / one step back 
+
+4.File pixel
+  background color: grayscale: black and white photo
+  RGB red green bule=>online 
+  CMYK=>print 
+  lab color=>luminosity A&B  Channel  
+
+4.Image Insert
+  Image->image size ctrl+alt+I           

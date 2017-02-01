@@ -1,0 +1,51 @@
+1.Crop
+  Rectangle Selection=>images=>crop
+  crop->tools=>enter crop
+  reset cancel enter(check mark)
+
+2.Perspective Crop Tool
+  Perspective Crop Tool=>front imgae(upper bar)=>enter
+  //crop the oblique image to straight
+
+3.Advanced scaling techniques
+ Ctrl+T=>free transform
+ Ctrl+alt+shift+C=>(X_axis and Y_axis is going on scale) 
+
+ 4.Cleaing up Dirst and Scratches
+   1) Spot Healing Brush drag is fine
+
+   2) Select An area=>Edit=>Content Aware
+
+ 5.Content Aware
+ 
+  Patch Tool=>draw=>drag
+
+ 6.Layers Panel
+ [bottom]
+ shift(ctrl) layers link layers=>(link layers) [bottom of layee panel] 
+ layer style
+
+
+ 7.Type of layers
+   1)Regular Layers
+   2)Masks=>transparent layer
+   3)Shape layer(vector layer)
+   4)Tezt Layer
+
+ 8.Working with layers
+   ctrl+[ or ]=>move layer upside and downside 
+   visible=>Alt=>solo layer
+
+
+ 9.Select and grouping layers
+   Ctrl+images(in Canvas)=>select different layer in layer panel
+
+   Grouping layers
+   Ctrl+G=>new group
+   
+   layers order can affect the whole image
+
+ 10.Create Selection from layer
+ Ctrl+layer(in the layer panel)=>create a layer in this   
+
+

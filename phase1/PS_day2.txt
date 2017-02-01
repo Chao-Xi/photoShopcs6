@@ -1,0 +1,38 @@
+1.Small Object[with smsall gray square]
+  File->place(L)->picture
+  Covert to smart object
+
+2.Image Size
+  ctrl+alt+i
+  Canvas Size  
+  ctrl+alt+C
+  Crop the canvas size to image size=>[Alt+i+r]=>crop
+
+
+3.Save your project
+
+4.Status Bar
+ left-down area->small right arrow
+ Adobe Drive, Documents Size, Documents profile,  Scratch Size, Efficiency, Timing,  Current Tool, Save Progress 
+
+5.Window->Navigator Bar
+ Zoom in & out
+ [Check and alter every pixel]
+
+6.Zoom Tool
+ Alt+click=>zoom out
+ holde H key and hand in
+
+7.Multiple Window
+  window->Arrange(1st)->new window for(last)
+
+8.Notes
+  view[extra to show or hide note] 
+
+9.Info
+  Get the info of image[window->info]   
+  image->adjust->hue/saturation
+
+10. General preference
+   Edit->preference->general;
+

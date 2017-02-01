@@ -1,0 +1,39 @@
+1.shadows and highlights adjustment
+ 
+ image->transfer to smart object->shadow/highlights
+ shadow(amount tonal width radius)
+ highlight(amount tonal width radius)
+ ok->smart filter
+
+2.Black and white adjustment
+  1)similiar to gray scale 
+  2)image->adjustment->white & black
+
+3.Mixer Brush Tool
+  color can be mixed to generate new color
+
+4.pencil tool
+
+5.Line tool(U)
+  option->arrow
+  shift+draw line=>45 90 180 225 270 315 360
+  
+6.ShapeTool
+  Custom shape tool
+  load shape(custom shape)
+
+8.shape layer
+  fill
+  storke(options[inside outside and bothside])
+
+9.How to arrange shapes 
+  1)circle tool
+  2)substract
+  3)custom shape tool
+  4)selection tool(black arrow)
+  5)set into centers (options)
+  6)Horizontal centers 
+  7)vertical center
+
+ 10.create custom shape
+   crate new shape->edit->define new custom shape   

@@ -1,0 +1,29 @@
+1.Using rulder and guides
+  Rulers:view->rulers
+  ctrl+r
+  drag the ruler to set the position
+  under eyedrop tool=>ruler tool
+
+2.Interface 
+  Edit->preference->interface  
+  
+  Ctrl+k=>preference
+
+3.Cursors 
+  Edit->preference->cursors 
+
+4.Improve the performace of PS
+  CTRL+K=>performance
+  Advanced setting=>graphic card
+
+5.Edit->preset->preset manage  
+
+6.Elliptical tool
+
+
+7.create new workspace
+ upper-right side bar->create new workspace
+
+8.Customizing User interface
+  window->workspace->keyboard shortcut and menus
+

@@ -1,0 +1,70 @@
+1.Marguee Slection tool
+  [Square Select tools]
+  upper tools bar
+  1)new Selection 2)add selection 3)Substract selection 4)Intersect Selection
+  5)feather
+  shift+drag=>prefect Square
+  (Ctrl+D)=>De-Selected
+  Delete=>delete selected area
+
+  create from right~upper (alt+drag)
+  Anti+antilas=>make smooth
+
+
+2.Single Row Marguee Tool =>One pixel selection
+  Single Col Marquee Tool
+
+  Right downside(near trash can)=>create new layer
+
+3.Lasso Tool
+  1)Regular Lasso tool
+  2)Hold alt=>straight line lasso tool
+  3)use lasso tool=>select area=>copy this selected area as a layer=>U can move it
+
+4.Quick selection tool
+  
+  [alt+drag]=>cut the area
+  [shift+drag]=>increase the area
+
+  The Quick Selection Tool's cursor can be resized quickly from the keyboard the same way we'd resize a brush. Press the left bracket key ( [ ) to make the cursor smaller or the right bracket key ( ] ) to make it larger. Typically, a smaller cursor will give you more accurate results.
+
+5.Magic wand tool
+ alt=>zoom in or out
+ shift=>increase selection area
+ Use "add selection area" to add more white area
+ [Selection inverse]
+ Increase=>tolerance=>bigger area
+  
+  Big area=>Use bigger tolerance
+  Small area=>use small tolerance
+
+6.Select by color range
+  Select=>color Range
+  Select=>grow
+  Alt+BackSpace=>refill the color
+
+7.Fine tuning your selection edges
+  quick selection area
+  [refine edge]
+  (Show Radius) (Show Original)
+  1.Blink Dashed line
+  2.Smooth Edge  Feather Contrast Shift Edge
+  3.Create new Layer
+
+8.How to edit your selection
+  Select=>inverse=>delete
+  Select=>modify  similar
+  Edit=>Paste in place 
+
+9.Free Transform
+  Ctrl+T
+  Edit=>free transform
+  2)Move 3)drag bigger and samller 3)different angle[hold ctrl]   4)Move anchor
+
+  Edit=>Transform=>form
+  Edit=>Transform=>flip horizontal and vertical
+
+  
+
+
+  

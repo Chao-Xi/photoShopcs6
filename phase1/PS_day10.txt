@@ -1,0 +1,43 @@
+1.GrayScale Color Mode
+  image->mode->gray(discard color)
+  go back(history) & ctrl+z
+  U can brush new color on it
+
+2.Bitmap color mode
+  Gray Mode->bitmap Mode 
+  50% thresdhold [black and white]=>sketch
+  pattern dither
+  diffusion dither
+  halftone screen
+
+3.indexed color mode
+  image->mode->indexed color (good for ppt or webpage)
+
+4.LabeL color mode
+  image->mode-> lab coloer mode
+
+5.Duotone color mode
+  grayscale->(imgae->mode->duotone)->mono duo tri quar+tone
+  duotone 
+
+6.Multichannek Mode->printing
+  cmyk->multiple channel
+  save as DSC2.0 file
+
+7.How to replace colors
+  image->adjustment->replace color
+  1)eyedroper tools select color  
+  2)fuzziness->bigger and bigger  
+  3)select an area then color replace
+
+8.color panel
+
+9.Swatches
+  color panel right side s the swatch
+
+10.Fill and Stroke
+    Edit->Stroke
+    1)select
+    2)Stroke
+    3)Edit->fill  
+

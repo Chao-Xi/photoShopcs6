@@ -1,0 +1,50 @@
+1.Retouching with realing brush(face)
+  patch tool
+  1)selection(ctrl+d)=>cancel
+  2)drag to a good place
+
+  healing bursh tool
+  1)Alt+click=>take sample
+  2)carefuly remove
+
+  blur tool
+
+2.Spoting healing brush(eye shadow)
+  drag(directly) 
+  content is best(***)
+
+  Then blur tools: blur this part 
+
+3. Remove red eye 
+   red eye tool
+   1)pupil size
+   2)click
+
+ 4.Create a color spot channels for printing
+ 
+ 5.Tone and color
+   image->auto tones(color is little better)
+
+ 6.levels
+   image->adjustment->levels (ctrl+l)
+   auto is based on options(alogrithm)
+
+ 7.Exposure
+    image->adjustment->exposure (ctrl+l)
+
+ 8.Curves (best color correction)
+   image->adjustment->curve (ctrl+m)
+   drag off point(clean the point)
+   1)negative
+   2)Strong comparsion(bright to brighter & dark to darker)
+   3)finger tool(pinpoint the color point)
+   4)pencil tool(draw own curve)
+   5)options-> 
+   
+ 9. Color balance
+    image->adjustment->color balance(ctrl+b)
+
+ 10.Brightness and contrast 
+   image->adjustment->brightness and contrast(ctrl+b) 
+
+

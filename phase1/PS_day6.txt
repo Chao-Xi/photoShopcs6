@@ -1,0 +1,46 @@
+1.Creating a layer from a selection
+  Pen tool->draw->slection->ok
+  Ctrl+J=>create an new layer from selection
+  
+  Alt+Move tool=>copy everthing in this layer
+
+2.How to turn the background into layer
+  double click or right click=>background layer
+
+
+  Right click new layer=>Flatten images=>(smart object=> background 0);
+
+3.Flatten Images  
+  Right click layer panel=>flatten images
+
+4. Combine layers
+   1.Resterize layer=>(to pixel)
+   2.Merge down(Ctrl E)
+
+5.Linking layers
+  Keep multiple layers
+  link them together=>move them together
+
+6.Blending Modes
+  Layer Panel=>blend model(darken)
+  1)Dissolve  2)Darken  3)Regular  4)Mutiply=>best darken 5)color burn  5)Linear burn  6)Darken color
+
+
+  blend model 2(lighten)
+  1)lighten[black part gone white part stay] 2) Screen 3) color dodge 4)linear dodge 
+
+  blend model 3(contrast)
+  1)overlay(Use a lot)
+  2)soft light
+  3)hard light
+  4)linear light
+  5)hard mix
+
+  blend model 3
+  cancellation group (sub divide ..)
+  component group (hue, saturation, color, luminosity)
+
+7.Layer Opacity
+  layer panel=>opacity
+  hotkey:1 2 3 4 5....
+

@@ -1,0 +1,51 @@
+1.paint bucket
+ front-colr 
+ back-color
+ continous(*)=>close part can be filled with different colors 
+
+2.Eraser Tool
+  different layer=>different effect
+
+3.background eraser tool(E)
+  Three sampling tools(1)continous 2)once 3)bg color swatch)   
+  
+  once sampling tool
+  alt=>get sample
+  drag=>can only erase only one part of color(one color in one zone[different color gonna stop])
+  
+
+  can only erase the background color(back color in color panel) from the image
+
+4. magic eraser tool(E)(AMAZING)
+    quickly delete paticulatr part of color
+    REMEMBER:low down the tolerance
+
+5.gradients color(G)
+  shift->straight line
+  (from front color->back color) 
+  straight line gradient
+  circle gradient(start from center)
+  angle gradient
+  reflected gradient(start from center)
+  diamond gradient
+
+6.create and save gradient
+  gradient editor  
+
+7.color replace tool(with pen pensil tools) 
+  continous Discontinous find edge
+
+8.layer masks
+  panel options->big icon
+  property->mask options  
+  shift+click mask icon(disable)(reverse able)
+  alt+click mask icon(see mask)(reverse unsee)
+
+9.Complex mask selections
+  move the part(title) from mask
+
+  add layer Style(button) fx
+
+10.soften a layer mask    
+  click master->property->feather+refine mask+
+

@@ -1,0 +1,36 @@
+1.Copying and deleting layers
+ layer panel->layer options->duplicate layer
+ 
+ right click->copy layer
+
+ Alt+move=>copy and paste a new layer
+
+2.Moving layer between documents
+  windows=>arrange=>2 up vertical
+  ctrl+T=>set the copy size
+  drag(tool) drag to another document
+
+3.Layers comp panel
+
+4.History panel=>check your history operations
+
+5.SnapShot
+move back and forward to your different version  
+
+6.Linear history and non-linear history
+
+7.History Brush 
+
+8.Art history bursh[so cool]
+  delete mask(smart obj=>normal)[paint effect]
+  small size=>more detail
+  bigger size=>few detail
+
+9.Creating history state files
+  Edit->preference->genreal->1)metadata 2)session 3)only detail  
+
+10.Intro adjustment layers
+    dont increase the size of the image
+
+    layer panel+adjust layer panel 1)light/contrast
+                                   2)

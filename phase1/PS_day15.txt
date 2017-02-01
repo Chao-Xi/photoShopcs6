@@ -1,0 +1,40 @@
+1.Creating a custom mask effects
+  select a part->create mask->filter->filter gallery(brush->spray brush)
+  =>custom mask
+
+2.creating vector mask
+  custom shape tool (path)[shift+drag]
+  ctrl+create mask=>layer background mask
+  direct selection=>size
+
+3.modifying the vector masks
+  property button
+  unlink chain=>move the mask
+
+4.create channel mask
+  select
+  channel
+  create new mask
+
+5.creating channel mask from scratch 
+
+6.channel mask
+  double click on the new channel mask =>channel options 
+
+7.awesome mask tips
+  channek mask->images->edit->threholds
+
+8.Using channel mask
+
+   layer->select->load selection
+
+9.Moving and combing channel masks
+   ctrl+shift+click=>the channel you wanna move in to=>save selection as channel
+
+10.Quick mask[Q]
+   draw or select create new channel mask
+
+
+
+
+

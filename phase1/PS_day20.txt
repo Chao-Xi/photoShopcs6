@@ -1,0 +1,33 @@
+1.Type mask
+  Text tool=>Type Mask tools(vertical and horizontal)
+
+2.Text along a path
+  use pen tool to draw a path
+  write txt on it
+
+3.filter gallery
+ filter->gallery filter 
+
+4.Smart Filters
+  filter->smart object
+  Rasterize->filter->convert to smart filter
+
+5.liqufy
+  Rasterize->filter->liqufy->advanced mode
+  1)drag 2)clockwise rotate  3)blow  4)Thaw mask  4)zoom in and out
+
+6.Liquify tool options
+
+7.Liquify Mask options
+  select a part=>liquify=>mask options=>only liquify a part
+
+8.Liquify viewer options
+
+9.Liquify Mesh
+  save mesh[custom liquify style] 
+  load mesh
+
+10.photo filter
+   image->adjustment->photo filter
+
+
